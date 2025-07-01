@@ -1,13 +1,8 @@
-Here is a **complete and professionally structured `README.md`** for your immersive 3D portfolio project:
-
----
-
-````markdown
 # 🌌 Rishabh Jha — 3D Full-Stack Developer Portfolio
 
-Welcome to the futuristic, immersive 3D portfolio of **Rishabh Jha**, a passionate full-stack developer specializing in the **MERN Stack, Python, and Java and much more**. This project merges creativity with cutting-edge technology using **Three.js**, **Framer Motion**, and interactive UI principles to showcase skills, experience, and personality in a highly engaging way.
+Welcome to the futuristic, immersive 3D portfolio of **Rishabh Jha**, a passionate full-stack developer specializing in the **MERN Stack, Python, and Java**. This project merges creativity with cutting-edge technology using **Three.js**, **Framer Motion**, and interactive UI principles to showcase skills, experience, and personality in a highly engaging way.
 
-> ⚙️ Live Demo: To Be Deployed
+> ⚙️ Live Demo: **Yet To Be Deployed**
 
 ---
 
@@ -26,10 +21,10 @@ Welcome to the futuristic, immersive 3D portfolio of **Rishabh Jha**, a passiona
 
 ## 🌗 Theme Modes
 
-| Mode        | Description                                 |
-|-------------|---------------------------------------------|
-| **Light**   | Minimal white background + ocean blue UI    |
-| **Dark**    | Coconut mocha theme with soft beige tones   |
+| Mode        | 
+|-------------|
+| **Light**   | 
+| **Dark**    | 
 
 ### 🔘 Toggle
 Accessible at the top-right, this switch animates the theme **globally**, affecting all elements including:
@@ -55,9 +50,9 @@ Accessible at the top-right, this switch animates the theme **globally**, affect
 
 ## 🥚 Easter Egg: Hidden Mini-Game
 
-- **Trigger**: Type `"RISHABH"` or press `Ctrl+Alt+J`
-- **Effect**: Hidden animation or mini 3D game appears
-- Surprise visuals and optional voice/music effect
+- **Trigger**: Type `"RISHABH"`
+- **Effect**: Hidden animation 
+- Surprise visuals and voice/music effect
 
 ---
 
@@ -67,8 +62,6 @@ Accessible at the top-right, this switch animates the theme **globally**, affect
 |------------------|--------------------------------------------|
 | Hover/Click      | Soft click or hover feedback               |
 | Page Load        | Smooth welcome chime or voice line         |
-| Music            | Ambient loop with toggle control           |
-| Mini-Game        | Surprise sound effects                     |
 
 ---
 
@@ -77,8 +70,8 @@ Accessible at the top-right, this switch animates the theme **globally**, affect
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/rishabh-3d-portfolio.git
-cd rishabh-3d-portfolio
-````
+```
+
 
 ### 2. Install Dependencies
 
@@ -174,7 +167,4 @@ Full-Stack Developer | Tech Enthusiast | Creative Coder
 ---
 
 ## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on [GitHub](https://github.com/your-username/rishabh-3d-portfolio)!
-
-```
+**If you like this project, consider giving it a ⭐ on GitHub!**
